@@ -17,8 +17,19 @@ nav a {
     font-size: larger;
     padding:10px;
     border-radius: 3px;
+    text-decoration: none;
+    color:black;
 }
 
 #page-title {
     text-align: center;
 }
+
+#main-body {
+    text-align: center;
+    background-color: rgb(149, 165, 186);
+    border-radius: 3px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
