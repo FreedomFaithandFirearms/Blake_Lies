@@ -1,3 +1,24 @@
-body {
-    background-color: red;
+html {
+    background-color: lightsteelblue;
+}
+
+nav {
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(135, 135, 135);
+    padding:20px;
+    height: 25px;
+}
+
+nav a {
+    background-color: lightgray;
+    font-size: larger;
+    padding:10px;
+    border-radius: 3px;
+}
+
+#page-title {
+    text-align: center;
 }
